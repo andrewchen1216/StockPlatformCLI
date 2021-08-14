@@ -4,7 +4,9 @@ Better than Thinkorswim
 
 Learning Objective:
 -Learning about 401k, Roth IRA, and stocks in general 
+
 -Learning how to invest in the stock market
+
 -Currently broke, so this would be my two year learning experience with the stock
 market
 
