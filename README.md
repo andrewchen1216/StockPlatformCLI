@@ -13,16 +13,24 @@ stock market
 
 
 Features I want in this Paper Trading
+
 -Start with 10K in the account 
+
 -Each month 1K is injected into the account
+
 -Be able to track the progress of the account with daily charting
+
 -Be able to have multiple accounts to test long term trading ideas 
--The papertrading should not care about the amount shares or seller or buyer
-account because the bot is only for long term trading
--There is a 1 day hold on stocks before it can be sold or bought 
+
+-The papertrading should not care about the amount shares or seller or buyer account because the bot is only for long term trading
+
+-There is a 1 day hold on stocks before it can be sold or bought
+
 -No transaction fee or interest for borrowing stocks 
+
 -Unlimited shares because where in the world am I going to get unlimited amount
 of money. 
+
 
 Steps to reach MVP:
 1.  Be able to pull stock data prices 
