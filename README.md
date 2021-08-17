@@ -12,7 +12,7 @@ Learning Objective:
 stock market
 
 
-Features I want in this Paper Trading
+Features I want in this Paper Trading:
 
 -Start with 10K in the account 
 
