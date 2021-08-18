@@ -1,0 +1,15 @@
+Scheme For A Database 
+
+Important Information: 
+The Value of the Account 
+The Amount of money in each Account 
+The trades created by each Account 
+What Stocks are in Each account 
+
+Table A:
+User Table
+This table is used to keep track of users 
+Each User is connected to a Table B
+
+Table B: 
+Stores the Accounts 
