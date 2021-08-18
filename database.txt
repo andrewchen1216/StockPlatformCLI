@@ -1,5 +1,7 @@
 Scheme For A Database 
 
+A diagram of the picture is in the DatabaseScheme.png picture.
+
 Important Information: 
 The Value of the Account 
 The Amount of money in each Account 

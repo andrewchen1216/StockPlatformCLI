@@ -1,0 +1,4 @@
+Types of Data that should be pulled from yfinance
+
+1. Graph of the Stock 
+2. Price of the Stock 

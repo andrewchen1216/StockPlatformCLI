@@ -1,0 +1,6 @@
+How should the trading actually happen 
+
+1. Able to enter a stock ticker symbol and be able to buy it with the require
+funds available in the account 
+2. Reject if not enough funds
+3. No shorting of stocks and only buying
